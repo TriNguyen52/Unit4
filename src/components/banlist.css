@@ -1,0 +1,17 @@
+.banList {
+    width: 348px;
+    height: 859px;
+    background-color: #9a7272;
+    
+    position: fixed; 
+    top: 50%;
+    left: 165%;
+    transform: translate(-50%, -50%);
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
