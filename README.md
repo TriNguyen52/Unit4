@@ -4,7 +4,7 @@ Submitted by: **Tri Nguyen**
 
 This web app: **Fetch API of dog pictures**
 
-Time spent: **5.5** hours spent in total
+Time spent: **6** hours spent in total
 
 ## Required Features
 
